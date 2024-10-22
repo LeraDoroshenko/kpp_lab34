@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab34</string>
+    <string name="name">Дорошенко Валерія Олегівна</string>
+    <string name="group">ФІТ 4-6</string>
+    <string name="city">Київ</string>
+    <string name="button1">Сховати верхній текст</string>
+    <string name="button2">Показати верхній текст</string>
+</resources>
